@@ -20,4 +20,4 @@ Copy the code , paste and compile it using your favourite IDE (Dev C++ , VSCode 
 
 Here is a screenshot showing the Hospital Management System running:
 
-![Hospital Management System Screenshot](images/output1.png)
+![Hospital Management System Screenshot](images/output.png)
