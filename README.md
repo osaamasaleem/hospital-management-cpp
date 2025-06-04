@@ -15,3 +15,9 @@ A basic console-based Hospital Management System developed using C++ in my 1st s
 
 ## 🚀 How to Run
 Copy the code , paste and compile it using your favourite IDE (Dev C++ , VSCode etc.)
+
+## 📸 Screenshot
+
+Here is a screenshot showing the Hospital Management System running:
+
+![Hospital Management System Screenshot](images/output1.png)
